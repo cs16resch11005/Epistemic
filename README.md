@@ -15,3 +15,4 @@ Command to running these codes
 cd Folder_Name
 javac testEpistemicSMC.java
 java testEpistemicSMC
+# Epistemic
