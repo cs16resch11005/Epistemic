@@ -1,0 +1,8 @@
+Run Id: 0 isQuerySatisfied: trueRun Id: 1 isQuerySatisfied: trueRun Id: 2 isQuerySatisfied: trueRun Id: 3 isQuerySatisfied: true
+num Sucess  : 4	num Failure : 0
+Probability of given query has been satisfied : 1.0
+
+num Sucess  : 0	num Failure : 4
+Probability of given query satisfied on Evolution Graph: 0.0
+
+Execution Time testGenericSMC:11985005

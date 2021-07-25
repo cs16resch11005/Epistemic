@@ -1,0 +1,14 @@
+Num of Nodes                :10
+Simulation Time Units       :10
+Total Population            :30
+Sample Size                 :1
+K Value                     :2
+CI			                :0.403
+Epsilon                     :0.503
+Is Randomly Generated Graph :1
+Path of network folder      :/home/ravi/ramesh/atva-3/GK-rQ3e/../Input/Network/
+Path of position folder     :/home/ravi/ramesh/atva-3/GK-rQ3e/../Input/Position/
+
+Num of Runs : 4
+
+Execution Time testGenericSMC:11985005
